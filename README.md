@@ -1,5 +1,5 @@
 # Drawing Shapes
-An application that allows the user to draw 2D polygons made with OpenGL.
+An application that allows the user to draw 2D polygons. This application was made using OpenGL libraries.
 
 ### OpenGL
 We have used the OpenGL library to create a canvas upon which the user is able to place points, connect them and create colored polygons.
